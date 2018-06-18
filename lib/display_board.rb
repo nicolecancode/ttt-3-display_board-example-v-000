@@ -2,10 +2,9 @@
 def display_board
   prints "Welcome to Tic Tac Toe"
   puts [
-   |   |   
+   |   |
 -----------
-   |   |   
+   |   |
 -----------
    |   |]
 end
-
